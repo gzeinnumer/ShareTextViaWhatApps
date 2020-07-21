@@ -1,0 +1,2 @@
+# ShareTextViaWhatApps
+ text only
